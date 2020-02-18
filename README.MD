@@ -17,3 +17,5 @@
 заданої локації і за бажанням його відвідати.
 
 Приклад роботи у зображеннях:
+![](https://github.com/VladislavRazoronov/Film_mapper/blob/master/output.png)
+![](https://github.com/VladislavRazoronov/Film_mapper/blob/master/Film_map.html.png)
